@@ -1,6 +1,6 @@
 # Wells Fargo Financial Portfolio Management Demo
 
-This project is a simple financial portfolio management system built with a Spring Boot backend and a React frontend. It demonstrates full CRUD operations for Advisors and Clients, and shows how to connect a modern frontend to a Java backend using REST APIs.
+I built this financial portfolio management system for the Wells Fargo Forage simulation using Spring Boot and React. It demonstrates full CRUD operations for Advisors and Clients, and shows how to connect a modern frontend to a Java backend using REST APIs.
 
 ## Features
 - Add, edit, and delete financial advisors
@@ -49,6 +49,3 @@ This project is a simple financial portfolio management system built with a Spri
 
 ## Author
 Ngoc Ta
-
----
-This project was created as a demonstration for Wells Fargo. 

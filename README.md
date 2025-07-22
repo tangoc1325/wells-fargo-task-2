@@ -34,7 +34,7 @@ I built this financial portfolio management system for the Wells Fargo Forage si
 2. The frontend will start on [http://localhost:3000](http://localhost:3000)
 
 ## Screenshots
-![Dashboard Screenshot](./screenshots/your-screenshot.png)
+![Dashboard Screenshot](./screenshots/wells_fargo_demo.png)
 
 ## Project Structure
 ```
